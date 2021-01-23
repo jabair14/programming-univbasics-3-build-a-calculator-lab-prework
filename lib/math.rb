@@ -27,6 +27,7 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  sum = 
+  sum = sqrt (num)
+  p sum
 
 end
